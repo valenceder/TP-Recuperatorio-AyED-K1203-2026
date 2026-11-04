@@ -4,4 +4,4 @@ Valentín Tomás Cedermas
 
 Comisión: K1203
 
-Por cada opción del menú, se encuentra una función. 
+En el programa hay una función para cada opción del menú que el usuario elige.
