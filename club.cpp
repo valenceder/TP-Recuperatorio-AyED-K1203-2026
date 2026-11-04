@@ -413,7 +413,4 @@ int main()
 
     return 0;
 }
-    fclose(f);
-    cout << "Se creó el archivo." << endl;
-}
 
