@@ -3,3 +3,5 @@
 Valentín Tomás Cedermas
 
 Comisión: K1203
+
+Por cada opción del menú, se encuentra una función. 
