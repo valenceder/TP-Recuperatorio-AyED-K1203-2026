@@ -19,10 +19,10 @@ struct Pago {
 
 /*Creo el archivo binario, si es que no se encuentra en el disco.*/
 void crearArchivo(const char *nombreArchivo){
-    FILE *f = fopen(nombreArchivo, "rb");
+    FILE *f = fopen(nombreArchivo, "wb");
 
     if (f == NULL) {
-        f = fopen(nombreArchivo, "rb");
+        f = fopen(nombreArchivo, "wb");
 
         if (f != NULL) {
             fclose(f);
